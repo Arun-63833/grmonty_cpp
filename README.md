@@ -1,1 +1,0 @@
-# grmonty_cpp
